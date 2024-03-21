@@ -1,9 +1,3 @@
-**Repository Name:** counting_prime_numbers_MPI
-
-**README.md**
-
----
-
 # Counting Prime Numbers using MPI
 
 This repository contains a parallel C program for counting prime numbers within a given range using MPI_Send and MPI_Receive.
