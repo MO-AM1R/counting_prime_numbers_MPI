@@ -25,7 +25,7 @@ The provided C program allows users to calculate the number of prime numbers occ
 
 2. **Compile the Program:**
    ```
-   mpicc counting_primes_mpi.c -o counting_primes_mpi
+   mpicc main.c -o counting_primes_mpi
    ```
 
 3. **Execute the Program:**
